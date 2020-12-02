@@ -16,10 +16,12 @@ body {
 	font-family: 'Arial', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	color: #999;
+	background-color: #141414;
 	overflow-x: hidden;
-	background: #000000;  /* fallback for old browsers */
-	background: -webkit-linear-gradient(to right, #5F0A87, #A4508B);  /* Chrome 10-25, Safari 5.1-6 */
-	background: linear-gradient(to right, #5F0A87, #A4508B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */	
+	/* background: -webkit-linear-gradient(to right, #5F0A87, #A4508B); */
+	  /* Chrome 10-25, Safari 5.1-6 */
+	/* background: linear-gradient(to right, #5F0A87, #A4508B);  */
+	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */	 
 }
 
 ul {
@@ -56,6 +58,7 @@ a {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
+	background-image: url(cloud.jpg);
 }
 
 .showcase-content {
