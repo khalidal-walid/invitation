@@ -16,11 +16,11 @@ body {
 	font-family: 'Arial', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	color: #999;
-	background-color: #141414;
+	/* background-color: #141414; */
 	overflow-x: hidden;
-	/* background: -webkit-linear-gradient(to right, #5F0A87, #A4508B); */
+	background: -webkit-linear-gradient(to right, purple, rgb(202, 133, 145));
 	  /* Chrome 10-25, Safari 5.1-6 */
-	/* background: linear-gradient(to right, #5F0A87, #A4508B);  */
+	background: linear-gradient(to right, rgb(121, 32, 156),rgb(202, 133, 145)); 
 	/* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */	 
 }
 
@@ -58,7 +58,7 @@ a {
 	justify-content: center;
 	align-items: center;
 	text-align: center;
-	background-image: url(cloud.jpg);
+	/* background-image: url(2.jpg); */
 }
 
 .showcase-content {
