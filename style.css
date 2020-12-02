@@ -85,9 +85,11 @@ a {
 }
 
 .showcase-content p {
+	font-family: 'Hello Valentica';
 	color: var(--yellow);
 	font-weight: bolder;
-	font-size: 1rem;
+	/* font-size: 1rem; */
+	font-size: 10rem;
 	line-height: 1.25;
 	margin: 1rem;
 }
@@ -287,7 +289,9 @@ a {
 
 .btn-nama {
 	width: 50%;
+	/* font-family: 'Phantom Rider'; */
 	font-size: 1.3rem;
+	/* font-size: 2rem; */
 	border-radius: 25px;
 	display: inline-block;
 	background: var(--yellow); 
