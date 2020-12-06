@@ -405,7 +405,7 @@ a {
 	}
 
 	.showcase-content p {
-		font-size: 2rem;
+		font-size: 2.5rem;
 		margin-bottom: 1em;
 	}
 
@@ -427,7 +427,7 @@ a {
 	}
 
 	.btn-nama {
-		width: 60%;
+		width: 100%;
 		font-size: 1.2rem;
 	}
 
@@ -454,9 +454,9 @@ a {
 		text-align: center;
 	}
 
-	#tab-1-content p {
+	/* #tab-1-content p {
 		font-size: 0.46rem;
-	}
+	} */
 
 	#tab-2-content .tab-2-content-bottom {
 		margin-top: 0.5rem;
