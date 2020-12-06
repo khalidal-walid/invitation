@@ -53,6 +53,10 @@ a {
   radial-gradient(#fff 59%,transparent 0);
 }
 
+.fa-dribbble, .fa-linkedin, .fa-github  {
+  color:#838383;
+}
+
 .showcase {
 	margin: 0;
 	padding: 3rem;
