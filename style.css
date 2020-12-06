@@ -69,6 +69,7 @@ a {
 }
 
 .showcase-content h1 {
+	font-family: 'Parisienne', cursive;
 	font-weight: 700;
 	font-size: 1.3rem;
 	line-height: 1.1;
@@ -305,7 +306,7 @@ a {
 
 .btn-nama {
 	width: 50%;
-	/* font-family: 'Phantom Rider'; */
+	font-family: 'Parisienne', cursive;
 	font-size: 1.3rem;
 	/* font-size: 2rem; */
 	border-radius: 25px;
