@@ -13,7 +13,7 @@
 }
 
 body {
-	font-family: 'Arial', sans-serif;
+	font-family: 'Alice', serif;
 	-webkit-font-smoothing: antialiased;
 	color: #999;
 	/* background-color: #141414; */
@@ -414,7 +414,7 @@ a {
 	}
 
 	.showcase-content h2 {
-		font-size: 0.8rem;
+		font-size: 1rem;
 	}
 
 	.btn-lg, .btn-tab-2 {
@@ -428,7 +428,7 @@ a {
 
 	.btn-nama {
 		width: 60%;
-		font-size: 1.3rem;
+		font-size: 1.2rem;
 	}
 
 	.btn-showcase {
@@ -490,7 +490,7 @@ a {
 	}
 
 	.text-md, .text-dark, .text-lg {
-		font-size: 0.8rem;
+		font-size: 1rem;
 	}
 }
 
